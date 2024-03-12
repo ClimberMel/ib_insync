@@ -15,7 +15,7 @@ The main features are:
 * A fully asynchonous framework based on
   `asyncio <https://docs.python.org/3/library/asyncio.html>`_
   and
-  `eventkit <https://github.com/erdewit/eventkit>`_
+  `eventkit <https://github.com/ClimberMel/eventkit>`_
   for advanced users;
 * Interactive operation with live data in Jupyter notebooks.
 
@@ -131,5 +131,5 @@ Good luck and enjoy,
    :alt: Number of downloads
    :target: https://pepy.tech/project/ib-insync
 
-.. |Build| image:: https://github.com/erdewit/ib_insync/actions/workflows/test.yml/badge.svg?branch=master
-   :target: https://github.com/erdewit/ib_insync/actions
+.. |Build| image:: https://github.com/ClimberMel/ib_insync/actions/workflows/test.yml/badge.svg?branch=master
+   :target: https://github.com/ClimberMel/ib_insync/actions

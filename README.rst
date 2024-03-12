@@ -86,8 +86,12 @@ The complete `API documentation <https://ib-insync.readthedocs.io/api.html>`_.
 Discussion
 ----------
 
-The `insync user group <https://groups.io/g/insync>`_ is the place to discuss
-IB-insync and anything related to it.
+The Discord server https://discord.gg/QvkqQhXg is the place to discuss
+my fork of IB-insync and anything related to it for now.  I am hoping that IB-insync
+finds a new permanent home and people to support the code.
+The original author: Ewald de Wit, seems to have left the project.  
+The groups.io disscussion forum was deleted and his public repos on GitHub archived.
+
 
 Disclaimer
 ----------
@@ -98,7 +102,7 @@ This project is not affiliated with Interactive Brokers Group, Inc.'s.
 
 Good luck and enjoy,
 
-:author: Ewald de Wit <ewald.de.wit@gmail.com>
+
 
 .. _`Interactive Brokers Python API`: http://interactivebrokers.github.io
 
